@@ -1,0 +1,9 @@
+Logs/
+.idea/
+startpycoil.bat
+Files/img_rc.pyc
+Files/__init__.pyc
+Files/Function.pyc
+Files/CoilGUI.pyc
+Files/Caio_ctype.pyc
+startcoil.bat
