@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 07 10:08:09 2016
-
-@author: sachs
+PyCoil main file
 """
 
 from PyQt4 import QtGui, QtCore  # Import the PyQt4 module we'll need
