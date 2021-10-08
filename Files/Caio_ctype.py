@@ -1,3 +1,9 @@
+"""
+
+NOTE: This file has been written and originally contributed by https://github.com/cboulay/caio_python
+
+"""
+
 from ctypes import *
 import numpy as np
 import time
